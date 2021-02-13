@@ -1,5 +1,6 @@
-# Steganography Online
+# SteganosaurusRex
 
+This is a fork of stylesuxx's work.
 Head over to [the github page](http://steganosaurusrex.github.io) and check out the online decoder and encoder.
 
 ## About Steganography
